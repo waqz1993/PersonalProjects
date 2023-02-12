@@ -1,6 +1,6 @@
 ***
 
-Welcome! Here is a repo containing various projects. Folders for each project and descriptions for each can be found below :smile:
+Welcome! Here is a repo containing various projects. Descriptions for each can be found below :smile:
 
 ***
 
