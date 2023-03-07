@@ -10,7 +10,7 @@ Welcome! Here is a repo containing various projects. Descriptions for each can b
 
 ### Main Technical Skills Demonstrated:
 
-* Machine Learning - Create a XGBoost Regression Model from various features. Our model has a higher correlation with goals than the current gold standard (xG). 
+* Machine Learning - Create a Ensemble Regression Model from various features. Our model has a higher correlation with goals than the current gold standard (xG). 
 
 * Extensive Data Cleaning - Utilize Python for combining data sources, extensive cleaning, timetable production and more. Showcase proficiency in multiple python libraries. 
 
