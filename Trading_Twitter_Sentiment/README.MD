@@ -1,6 +1,7 @@
 An initial investigation into whether the sentiment of tweets from major outlets within specific sectors have predictive ability for the price of a stock for the subseuqnet day. Also striate across market cap. 
 
 The sectors investigated; Commodities, Crypto, Energy and Technology. 
+
 The market caps chosen; Small, Medium, Large. 
 
 * Sentiment Scraping: Includes scripts for collecting tweets from major news outlets between 2018 and 2022. Two largest outlets for each sector were chosen.
