@@ -1,4 +1,5 @@
 An initial investigation into whether the sentiment of tweets from major outlets within specific sectors have predictive ability for the price of a stock for the subseuqnet day. Also striate across market cap. 
+
 The sectors investigated; Commodities, Crypto, Energy and Technology. 
 The market caps chosen; Small, Medium, Large. 
 
