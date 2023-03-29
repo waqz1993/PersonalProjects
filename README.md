@@ -18,6 +18,20 @@ Tested for twitter sentiment and future price change whilst striating against co
 
 *** 
 
+## Currency and Retail Sentiment Trading Project :moneybag:
+
+### Main Technical Skills Demonstrated: 
+
+* Stats - Practical discussion of data normalization testing methods, parametric vs non-parametric correlation testing, sample sizes and transformation methods. 
+
+* Python - The aforementioned stats work is accomplished using the SciPy and NumPy libraries. General data cleansing is also demonstrated. 
+
+Retail traders, as opposed to institutional traders, act as individuals investing their own money. The activity of retail traders has historically been made unavailable to the public. However, recently certain brokerages have been willing to buck this trend and release data on the activity of their retail traders. 
+
+This project serves as an exploration of retail activity and whether their activity can serve as a proxy for sentiment. Initial findings are promising, with retail activity having weak-moderate correlation with future price change (within certain contexts). 
+
+*** 
+
 ## Fantasy Football League (FPL) Project :soccer:
 
 ### Main Technical Skills Demonstrated:
@@ -34,19 +48,7 @@ This project utilizes past data to make predictions as to which teams and player
 
 ***
 
-## Currency and Retail Sentiment Trading Project :moneybag:
 
-### Main Technical Skills Demonstrated: 
-
-* Stats - Practical discussion of data normalization testing methods, parametric vs non-parametric correlation testing, sample sizes and transformation methods. 
-
-* Python - The aforementioned stats work is accomplished using the SciPy and NumPy libraries. General data cleansing is also demonstrated. 
-
-Retail traders, as opposed to institutional traders, act as individuals investing their own money. The activity of retail traders has historically been made unavailable to the public. However, recently certain brokerages have been willing to buck this trend and release data on the activity of their retail traders. 
-
-This project serves as an exploration of retail activity and whether their activity can serve as a proxy for sentiment. Initial findings are promising, with retail activity having weak-moderate correlation with future price change (within certain contexts). 
-
-*** 
 
 # Side Projects 
 
