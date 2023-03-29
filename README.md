@@ -34,7 +34,7 @@ This project utilizes past data to make predictions as to which teams and player
 
 ***
 
-## Currency and Sentiment Trading Project :moneybag:
+## Currency and Retail Sentiment Trading Project :moneybag:
 
 ### Main Technical Skills Demonstrated: 
 
