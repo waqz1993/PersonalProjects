@@ -57,13 +57,6 @@ This project serves as an exploration of retail activity and whether their activ
 
 *** 
 
-## Titanic Dataset - Machine Learning :computer:
-### Main Technical Skills Demonstrated:
-
-* Machine Learning: Data cleaning, feature engineering, feature reduction, ensemble methods, hyper-parameter optimization. 
-
-*** 
-
 ## SQL Proficiency :abacus:
 ### Main Technical Skills Demonstrated:
 
