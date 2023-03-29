@@ -6,6 +6,18 @@ Welcome! Here is a repo containing various projects. Descriptions for each can b
 
 # Main Projects
 
+## Twitter Sentiment vs Future Stock Prices :moneybag:
+
+### Main Technical Skills Demonstrated: 
+
+* NLP Modelling: Evaluated various pre-trained BERT models on multiple financial datasets, using cloud computing, to ascertain the best model for sentiment analysis.
+
+* Data Collection: Acquired a Twitter dataset encompassing over 150,000 tweets from prominent news sources spanning 2018-2022.
+
+Tested for twitter sentiment and future price change whilst striating against company size and sector. Found statistically significant correlations within certain contexts.
+
+*** 
+
 ## Fantasy Football League (FPL) Project :soccer:
 
 ### Main Technical Skills Demonstrated:
