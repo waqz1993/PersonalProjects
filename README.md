@@ -46,6 +46,8 @@ Fantasy Football is a fantasy game played by over 11 million players worldwide e
 
 This project utilizes past data to make predictions as to which teams and players will return the most points. I have utilized the point prediction system developed in this project to come up in the top .02% in the previous fantasy season (having never played nor paid attention to the premier league before). 
 
+link to account: https://fantasy.premierleague.com/entry/5015503/history
+
 ***
 
 
