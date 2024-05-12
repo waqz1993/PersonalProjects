@@ -44,26 +44,11 @@ This project serves as an exploration of retail activity and whether their activ
 
 Fantasy Football is a fantasy game played by over 11 million players worldwide every year. Managers attempt to pick the best players in the premier league with hopes of selecting players who will return the most points week to week. 
 
-This project utilizes past data to make predictions as to which teams and players will return the most points. I have utilized the point prediction system developed in this project to come up in the top .02% in the previous fantasy season (having never played nor paid attention to the premier league before). 
+This project utilizes past data to make predictions as to which teams and players will return the most points. The AI based point prediction system developed in this project to come up in the top .02 and .5% in the two previous fantasy seasons. 
 
 link to account: https://fantasy.premierleague.com/entry/5015503/history
 
 ***
 
-
-
-# Side Projects 
-
-## Marketing and Terrorism - Exploratory Data Analysis - Python and PowerBI :art:
-### Main Technical Skills Demonstrated:
-
-* Data Visualization: Utilize python libraries Matplotlib and seaborn to visualize data. Also create a PowerBI dashboard for the Marketing dataset. 
-
-*** 
-
-## SQL Proficiency :abacus:
-### Main Technical Skills Demonstrated:
-
-* SQL: Over 50 exercises from an example dataset to demonstrate SQL knowledge. Includes joins, CTE, windows functions etc. 
 
 ***
