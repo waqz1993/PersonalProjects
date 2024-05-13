@@ -46,8 +46,6 @@ Fantasy Football is a fantasy game played by over 11 million players worldwide e
 
 This project utilizes past data to make predictions as to which teams and players will return the most points. The AI based point prediction system developed in this project to come up in the top .02 and .5% in the two previous fantasy seasons. 
 
-link to account: https://fantasy.premierleague.com/entry/5015503/history
-
 ***
 
 
