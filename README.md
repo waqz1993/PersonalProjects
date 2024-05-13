@@ -8,7 +8,7 @@ Welcome! Here is a repo containing various projects. Descriptions for each can b
 
 ## Twitter Sentiment vs Future Stock Prices :moneybag:
 
-### Main Technical Skills Demonstrated: 
+### Key Technical Steps
 
 * NLP Modelling: Evaluated various pre-trained BERT models on multiple financial datasets, using cloud computing, to ascertain the best model for sentiment analysis.
 
@@ -20,7 +20,7 @@ Tested for twitter sentiment and future price change whilst striating against co
 
 ## Currency and Retail Sentiment Trading Project :moneybag:
 
-### Main Technical Skills Demonstrated: 
+### Key Technical Steps
 
 * Stats - Practical discussion of data normalization testing methods, parametric vs non-parametric correlation testing, sample sizes and transformation methods. 
 
@@ -34,7 +34,7 @@ This project serves as an exploration of retail activity and whether their activ
 
 ## Fantasy Football League (FPL) Project :soccer:
 
-### Main Technical Skills Demonstrated:
+### Key Technical Steps
 
 * Machine Learning - Create a Ensemble Regression Model from various features. Our model has a higher correlation with goals than the current gold standard (xG). 
 
